@@ -12,3 +12,5 @@ knitr::opts_chunk$set(echo = TRUE)
 I'm annaclaire and I'm adding some text here to see if my collaborators can get this file 
 
 AC: Now Jill is also a collaborator 
+
+Hi AC, this is Jill. I just wanted to add some text and say that this is awesome and wanted to know if you wanted to go to patagonia this weekend and use Ben's discount?
